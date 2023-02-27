@@ -1,0 +1,8 @@
+A1::Doritos::1::3
+A2::Pringles::1.25::5
+A3::Frijtos::0.97::2
+A4::Anti-Depression Chips::14.36::0
+B1::Skittles::0.55::16
+B2::Twix::0.79::8
+B3::Crunch::0.69::10
+B4::M&Ms::0.55::16
