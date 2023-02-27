@@ -1,2 +1,2 @@
 # portfolio-projects
-A repository containing various small example projects of my programming skills
+A repository containing various small example projects of my programming skills!
